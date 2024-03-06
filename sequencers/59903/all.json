@@ -18,5 +18,15 @@
         "pubkey": "0x6bf36f5d9f99f34fe3a9a3593393b70e6a10d99a790fab74330f00b2e81fa48c651accafd2e4fbcb91989a2c0e956b9d60892b2091edc3751c1d3037b2f16f60",
         "url": "https://metisdevops.link",
         "media": ""
+    },
+    {
+        "name": "Genesis2",
+        "avatar": "",
+        "desc": "Metis Devops Genesis Testing",
+        "address": "0x77f2c00cd2e90bd5991530e7bfdd048443531ab6",
+        "seq_addr": "0x77f2c00cd2e90bd5991530e7bfdd048443531ab6",
+        "pubkey": "0xceb8126fbf7b1e0ff1da5546316fd7f9d1e9d09c8cabef3e8a5502a9f024c151fa376b2949beed2482686e09263d13ef8d2192aad9d8f4e24b0776be5b5faa81",
+        "url": "https://metisdevops.link",
+        "media": ""
     }
 ]
